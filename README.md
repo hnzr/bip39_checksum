@@ -1,6 +1,6 @@
 # bip39_checksum
 
-bip39_checksum is a Python code developed for understanding bip39 mnemonic codes designed.
+bip39_checksum is a Python code developed for understanding how bip39 mnemonic codes designed.
 
 Checksum calculation is the first part of the code.
 
