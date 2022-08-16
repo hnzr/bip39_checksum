@@ -25,7 +25,6 @@ param_words="ignore sponsor decline nerve brain vast short hollow cheap rotate s
 print("brute force word 2 for many result -> ", bip39checksum.brute_force(param_words, 2, -1))
 
 
-
 # references :
 # I have used for cross checking my results https://learnmeabitcoin.com/technical/mnemonic
 # I have used for SHA256 computation logic. https://medium.com/bitbees/python-code-to-manually-create-12-24-worded-seed-and-passphrase-without-trusting-bitcoin-wallets-9d158535dfc6
